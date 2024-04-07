@@ -4,3 +4,4 @@ In this project, there are 3 workshops:
    b) a container running MYSQL database in the docker network
    c) 3 containers running nodejs applications with connection to the MYSQL database in the docker network
    d) an nginx server running in Digital Ocean which routes traffic to the backend instances
+2. IaC (Terraform & Ansible) scripts to provision a code server in Digital Ocean
